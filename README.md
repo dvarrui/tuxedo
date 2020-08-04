@@ -1,8 +1,5 @@
 # tuxedo
 
-
-Introducción
-
 * El portátil lo compré el 7 de mayo de 2020.
 * El paquete lo recibo el 12 de junio.
 
