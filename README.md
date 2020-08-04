@@ -1,7 +1,7 @@
 # tuxedo
 
 * I bought the laptop on May 7, 2020.
-* I receive the package on June 12. Since then I have been testing it.
+* I receive the package on June 23. Since then I have been testing it.
 
 ## Day 20200730
 
